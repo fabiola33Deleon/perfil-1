@@ -17,8 +17,8 @@
 	color: #FFFFFF;
 	display: block;
 	font: bold 11px/20px sans-serif;
-	padding: 10px 225px;
-	text-align: center;
+	padding: 10px 229px;
+	text-align: justify;
 	text-decoration: none;
 	-webkit-transition: all .25s ease;
 	-moz-transition: all .25s ease;
@@ -45,5 +45,22 @@ img {
 	height: auto; 
   }
  
+  body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+  }
+  
+  .content {
+	padding: 20px;
+  }
+  
+  footer {
+	background-color: #050505;
+	color: #ffffff;
+	padding: 20px;
+	text-align: center;
+  }
+  
 
   

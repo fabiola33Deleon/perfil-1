@@ -17,8 +17,8 @@
 	color: #000000;
 	display: block;
 	font: bold 10px/20px sans-serif;
-	padding: 12px 207px;
-	text-align: center;
+	padding: 12px 208px;
+	text-align: justify;
 	text-decoration: none;
 	-webkit-transition: all .25s ease;
 	-moz-transition: all .25s ease;
@@ -29,4 +29,10 @@
 .dropdownmenu li:hover a {
 	background: #2bc3ff;
 }
-
+footer {
+	background-color: #050505;
+	color: #ffffff;
+	padding: 20px;
+	text-align: center;
+  }
+  

@@ -18,7 +18,7 @@
 	display: block;
 	font: bold 10px/20px sans-serif;
 	padding: 15px 225px;
-	text-align: center;
+	text-align: justify;
 	text-decoration: none;
 	-webkit-transition: all .25s ease;
 	-moz-transition: all .25s ease;
@@ -43,6 +43,12 @@ img {
 	width: 200%; 
 	height: auto; 
   }
- 
+  footer {
+	background-color: #050505;
+	color: #ffffff;
+	padding: 20px;
+	text-align: center;
+  }
+  
 
 	
